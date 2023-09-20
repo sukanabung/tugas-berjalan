@@ -1,0 +1,9 @@
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\obj\Debug\TulisanBerjalan.Form1.resources
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+E:\22.11.4858\PemJut\week3\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
